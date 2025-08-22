@@ -45,9 +45,13 @@ https://devjapi.github.io/ChallengeAmigoSecreto/
 ## Intrucciones de uso
 
 - Clonar el repositorio: git clone [https://github.com/DevJAPI/ChallengeAmigoSecreto.git](https://github.com/DevJAPI/ChallengeAmigoSecreto.git)
-- Abrir el archivo index.html en tu navegador o si usas la extensión de VSCode LiveServer, abre en VSCode el archivo html y luego dale a go live server.
+- Abrir el archivo index.html en tu navegador o si usas la extensión de VSCode LiveServer, abre en VSCode el archivo html y luego dale a go live.
+
+<img width="320" height="48" alt="image" src="https://github.com/user-attachments/assets/c0790378-7580-4cde-a80a-929b8abfb7d1" />
+
 - Te abrira la pagina donde podras jugar al Challenge del amigo secreto.
 - Ahora añade los nombres de los participantes y dale al boton de "sortear amigo".
+- Una vez salga el nombre elegido del sorteo saldra abajo de la lista de nombres con un color verde.
 - Listo, eso seria todo.
 
 ---
